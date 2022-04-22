@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Crypto Projects
-- 📫 How to reach me lucky2077@mailverse.xyz
+- 📫 How to reach me https://twitter.com/0xLucky2077_eth
 
 <!---
 lucky2077/lucky2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
